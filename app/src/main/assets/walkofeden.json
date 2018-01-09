@@ -1,0 +1,468 @@
+{  
+    "walk":[  
+        {  
+            "name":"INTRODUCTION",
+            "title":"Slow Down, Find Humanity",
+            "detail":"Paul Salopek\u2019s 21,000-mile odyssey is a decade-long experiment in slow journalism. Moving at the beat of his footsteps, Paul is walking the pathways of the first humans who migrated out of Africa in the Stone Age and made the Earth ours. Along the way he is covering the major stories of our time\u2014from climate change to technological innovation, from mass migration to cultural survival\u2014by giving voice to the people who inhabit them every day. His words, as well as his photographs, video, and audio, create a global record of human life at the start of a new millennium as told by villagers, nomads, traders, farmers, soldiers, and artists who rarely make the news. In this way, if we choose to slow down and observe carefully, we also can rediscover our world.",
+            "location":"",
+            "date":"",
+            "sub_title":"",
+            "from":{  
+                "title":"",
+                "url":""
+            },
+            "images":[]
+        },
+        {  
+            "name":"CHAPTER 1",
+            "title":"Out of Africa",
+            "detail":"A motley camel caravan strikes out across the lands of the nomadic Afar toward the Indian Ocean and the \u201cStrait of Tears.\u201d",
+            "location":"ETHIOPIA \/ DJIBOUTI \/ RED SEA CROSSING",
+            "date":"JANUARY 2013 \u2013 MAY 2013",
+            "sub_title":"The journey begins in Ethiopia at one of the world\u2019s oldest human fossil sites, Herto Bouri, and unspools across the scalding Afar Triangle, in the Rift Valley. Along this pathway our restless forebears ventured forth toward the Gulf of Aden, where they first stepped out of the mother continent to explore the wider world. As Paul bears witness, this ancient pathway remains a conduit of opportunity\u2014and sometimes fatal tragedy\u2014for migrants seeking a better life today.",
+            "from":{  
+                "title":"To Walk the World",
+                "url":"http:\/\/ngm.nationalgeographic.com\/2013\/12\/out-of-eden\/salopek-text"
+            },
+            "images":[  
+                {  
+                    "title":"africa_1",
+                    "sub_title":"Two weeks into the Out of Eden Walk, Paul Salopek and local guides traverse the Afar region of northeastern Ethiopia.",
+                    "photographer":"JOHN STANMEYER"
+                },
+                {  
+                    "title":"africa_2",
+                    "sub_title":"Inches beneath the barren surface of Ethiopia\u2019s Afar depression, in one of Earth\u2019s hottest places, paleontologists with the Middle Awash Project find tools and other evidence of humans from 60,000 years ago and earlier. An Afar youth holding a traditional knife, or jile, watches the researchers at work.",
+                    "photographer":"JOHN STANMEYER"
+                },
+                {  
+                    "title":"africa_3",
+                    "sub_title":"Villagers pray for rain in the Afar desert. A mega drought lasting thousands of years may have bottled up early humans in Africa, making travel risky. A climate shift bringing wet periods likely helped propel the first migration.",
+                    "photographer":"JOHN STANMEYER"
+                },
+                {  
+                    "title":"africa_4",
+                    "sub_title":"Paul Salopek and guide Ahmed Alema Hessan leave the Ethiopian village of Bouri\u2014the walk\u2019s starting point.",
+                    "photographer":"JOHN STANMEYER"
+                },
+                {  
+                    "title":"africa_5",
+                    "sub_title":"An urban oasis, the central market in Djibouti city pulses with traffic. Buses bring migrants who, Salopek says, have changed in a generation from pre-modern pastoralists to hustling wage earners in this city of 500,000.",
+                    "photographer":"JOHN STANMEYER"
+                },
+                {  
+                    "title":"africa_6",
+                    "sub_title":"Clan tensions meant that Alema often preferred camping out to staying with fellow Afar.",
+                    "photographer":"PAUL SALOPEK"
+                },
+                {  
+                    "title":"africa_7",
+                    "sub_title":"In Djibouti, stone beacons helped ancient travelers navigate the desert during dust storms.",
+                    "photographer":"JOHN STANMEYER"
+                }
+            ],
+            "stories":[  
+                {  
+                    "title":"Setting Out",
+                    "date":"JANUARY 21, 2013",
+                    "location":"HERTO BOURI, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/blogs\/lab-talk\/2013-01-setting-out\/"
+                },
+                {  
+                    "title":"A Walk Through Time",
+                    "date":"JANUARY 21, 2013",
+                    "location":"THE GREAT RIFT VALLEY",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/media\/2013-01-a-walk-through-time\/"
+                },
+                {  
+                    "title":"Milestone 1: Herto Bouri",
+                    "date":"JANUARY 21, 2013",
+                    "location":"HERTO BOURI, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/milestones\/2013-01-milestone-1-herto-bouri#introduction"
+                },
+                {  
+                    "title":"Let\u2019s Walk",
+                    "date":"JANUARY 22, 2013",
+                    "location":"HERTO BOURI, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-01-lets-walk\/"
+                },
+                {  
+                    "title":"Baby Steps",
+                    "date":"JANUARY 24, 2013",
+                    "location":"HERTO BOURI, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-01-baby-steps"
+                },
+                {  
+                    "title":"Camel Walking",
+                    "date":"JANUARY 25, 2013",
+                    "location":"YANGUDI RASSA NATIONAL PARK, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-01-camel-walking\/"
+                },
+                {  
+                    "title":"Electronic Oasis",
+                    "date":"JANUARY 28, 2013",
+                    "location":"DALIFAGI VILLAGE, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-01-electronic-oasis\/"
+                },
+                {  
+                    "title":"Bones atop Bones: Walking through a Colossal Graveyard",
+                    "date":"JANUARY 29, 2013",
+                    "location":"THE AFAR TRIANGLE, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-01-bones-atop-bones-walking-through-a-colossal-graveyard"
+                },
+                {  
+                    "title":"In the Groove",
+                    "date":"JANUARY 30, 2013",
+                    "location":"AFAR REGION, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/blogs\/lab-talk\/2013-01-in-the-groove"
+                },
+                {  
+                    "title":"Trail Notes: Camel Packing",
+                    "date":"JANUARY 30, 2013",
+                    "location":"WARENZO, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-01-field-notes-camel-packing"
+                },
+                {  
+                    "title":"Sole Brothers",
+                    "date":"JANUARY 31, 2013",
+                    "location":"RIFT VALLEY, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-01-sole-brothers"
+                },
+                {  
+                    "title":"Bush RSS Feed",
+                    "date":"FEBRUARY 03, 2013",
+                    "location":"AFAR TRIANGLE, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-02-bush-rss-feed"
+                },
+                {  
+                    "title":"Trail Notes: Well Being",
+                    "date":"FEBRUARY 04, 2013",
+                    "location":"WARENZO, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-02-trail-notes-well-being"
+                },
+                {  
+                    "title":"Milestone 2: Afar Badlands",
+                    "date":"FEBRUARY 04, 2013",
+                    "location":"AFAR REGION, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/milestones\/2013-01-milestone-2-afar-badlands"
+                },
+                {  
+                    "title":"Trail Notes: The Things They Carry",
+                    "date":"FEBRUARY 06, 2013",
+                    "location":"NEAR LOGIA, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-02-trail-notes-the-things-they-carry"
+                },
+                {  
+                    "title":"Gona: First Kitchen",
+                    "date":"FEBRUARY 08, 2013",
+                    "location":"NEAR GONA, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-02-gona-first-kitchen"
+                },
+                {  
+                    "title":"First Contact",
+                    "date":"FEBRUARY 11, 2013",
+                    "location":"NEAR GONA, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-02-first-contact"
+                },
+                {  
+                    "title":"The Gun: Africa and the AK",
+                    "date":"FEBRUARY 15, 2013",
+                    "location":"AFAR REGION, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-02-the-gun-africa-and-the-ak"
+                },
+                {  
+                    "title":"Trail Notes: Sound Travel",
+                    "date":"FEBRUARY 18, 2013",
+                    "location":"LOGIA, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-02-trail-notes-sound-travel"
+                },
+                {  
+                    "title":"New World",
+                    "date":"FEBRUARY 21, 2013",
+                    "location":"DUBTI, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-02-new-world"
+                },
+                {  
+                    "title":"Trail Notes: Camel Camaraderie",
+                    "date":"FEBRUARY 26, 2013",
+                    "location":"NEAR ASAITA, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-02-trail-notes-camel-camaraderie"
+                },
+                {  
+                    "title":"Thesiger\u2019s Trail",
+                    "date":"March 1, 2013",
+                    "location":"ASAITA, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-03-thesigers-trail"
+                },
+                {  
+                    "title":"How to Get Internet in the Desert: A Look Inside Paul Salopek\u2019s Backpack",
+                    "date":"March 5, 2013",
+                    "location":"Ethiopia",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/blogs\/lab-talk\/2013-03-internet-in-the-desert"
+                },
+                {  
+                    "title":"Trail Notes: The Italian Road",
+                    "date":"March 6, 2013",
+                    "location":"NEAR ASAITA, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-03-trail-notes-the-italian-road"
+                },
+                {  
+                    "title":"The Things They Leave Behind",
+                    "date":"March 10, 2013",
+                    "location":"AFAR TRIANGLE, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-03-the-things-they-leave-behind"
+                },
+                {  
+                    "title":"Goodbye to Alema",
+                    "date":"March 15, 2013",
+                    "location":"TRAIL CAMP NEAR HOWLE, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-03-goodbye-to-alema"
+                },
+                {  
+                    "title":"The Greatest Walk",
+                    "date":"March 21, 2013",
+                    "location":"TADJOURA, DJIBOUTI",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/media\/2013-03-the-greatest-walk"
+                },
+                {  
+                    "title":"Milestone 3: Djibouti",
+                    "date":"March 24, 2013",
+                    "location":"Milestone 3: Djibouti",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/milestones\/2013-02-milestone-3-djibouti"
+                },
+                {  
+                    "title":"The Glorious Boneyard: A Report From Our Starting Line",
+                    "date":"March 26, 2013",
+                    "location":"HERTO BOURI, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-03-the-glorious-boneyard-a-report-from-our-starting-line"
+                },
+                {  
+                    "title":"Paper Camels",
+                    "date":"March 27, 2013",
+                    "location":"DJIBOUTI",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/blogs\/lab-talk\/2013-03-paper-camels"
+                },
+                {  
+                    "title":"Borders Matter",
+                    "date":"March 30, 2013",
+                    "location":"GALAFI, DJIBOUTI",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-03-borders-matter"
+                },
+                {  
+                    "title":"Trail Notes: Solar Camel",
+                    "date":"April 2, 2013",
+                    "location":"NEAR THE GAGADE PLAIN, DJIBOUTI",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-04-trail-notes-solar-camel"
+                },
+                {  
+                    "title":"Trail Notes: The Elixir",
+                    "date":"April 5, 2013",
+                    "location":"DEKA VALLEY, DJIBOUTI",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-04-trail-notes-the-elixir"
+                },
+                {  
+                    "title":"Noisiest Village in the World",
+                    "date":"April 10, 2013",
+                    "location":"LEITA, DJIBOUTI",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-04-noisiest-village-in-the-world"
+                },
+                {  
+                    "title":"The Ocean Door",
+                    "date":"April 22, 2013",
+                    "location":"GULF OF TADJOURAH, DJIBOUTI",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-04-the-ocean-door"
+                },
+                {  
+                    "title":"Pirates Sink Ocean Science",
+                    "date":"April 25, 2013",
+                    "location":"DJIBOUTI CITY, DJIBOUTI",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-04-pirates-sink-ocean-science"
+                },
+                {  
+                    "title":"Harnessing the Sun for Storytelling",
+                    "date":"April 25, 2013",
+                    "location":"DJIBOUTI",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/blogs\/lab-talk\/2013-04-harnessing-the-sun"
+                },
+                {  
+                    "title":"Stowaway",
+                    "date":"May 3, 2013",
+                    "location":"DJIBOUTI CITY, DJIBOUTI",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-05-stowaway"
+                },
+                {  
+                    "title":"Milestone 4: Red Sea",
+                    "date":"May 9, 2013",
+                    "location":"ABOARD THE MV ABUYASSER II, RED SEA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/milestones\/2013-04-milestone-4-red-sea"
+                },
+                {  
+                    "title":"The Self-Love Boat",
+                    "date":"May 11, 2013",
+                    "location":"ABOARD THE MV ABUYASSER II NEAR THE BAB-EL-MANDEB STRAIT",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2013-05-the-self-love-boat"
+                },
+                {  
+                    "title":"Milestone 5: Red Sea",
+                    "date":"June 10, 2013",
+                    "location":"ABOARD THE MV ABUYASSER II, RED SEA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/milestones\/2013-04-milestone-5-red-sea"
+                },
+                {  
+                    "title":"Milestone 6: Red Sea",
+                    "date":"June 13, 2013",
+                    "location":"ABOARD THE MV ABUYASSER II, RED SEA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/milestones\/2013-04-milestone-6-red-sea"
+                },
+                {  
+                    "title":"Milestone 7: Red Sea",
+                    "date":"June 23, 2013",
+                    "location":"ABOARD THE MV ABUYASSER II, RED SEA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/milestones\/2013-04-milestone-7-red-sea"
+                },
+                {  
+                    "title":"Milestone 8: Red Sea",
+                    "date":"July 21, 2013",
+                    "location":"ABOARD THE MV ABUYASSER II, RED SEA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/milestones\/2013-04-milestone-8-red-sea"
+                },
+                {  
+                    "title":"Milestone 9: Red Sea",
+                    "date":"July 28, 2013",
+                    "location":"ABOARD THE MV ABUYASSER II, RED SEA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/milestones\/2013-04-milestone-9-red-sea"
+                },
+                {  
+                    "title":"Milestone 10: Red Sea",
+                    "date":"August 4, 2013",
+                    "location":"ABOARD THE MV ABUYASSER II, RED SEA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/milestones\/2013-04-milestone-10-red-sea"
+                },
+                {  
+                    "title":"Afar Terrain",
+                    "date":"September 9, 2013",
+                    "location":"AFAR REGION, ETHIOPIA",
+                    "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/media\/2013-09-1309_afar_terrain"
+                }
+            ]
+        },
+        {  
+            "name":"CHAPTER 2",
+            "title":"Holy Lands",
+            "detail":"From the desert expanses of the Arabian Peninsula, the walk heads north into holy lands that seeded the three great monotheistic faiths.",
+            "location":"SAUDI ARABIA \/ JORDAN \/ WEST BANK \/ ISRAEL",
+            "date":"MAY 2013 \u2013 JULY 2014",
+            "sub_title":"The trek through the Middle East begins in the fabled deserts that guard the cradle of Islam\u2014the Hejaz of Saudi Arabia, long forbidden to outsiders. Meetings with Bedouin nomads and echoes of the ghost of Lawrence of Arabia give way to encounters in the contested borderlands between Israelis and Palestinians. Crossing the West Bank, Paul gets caught in a skirmish between these two peoples. Then, to circumvent the bloody civil war in Syria, he is forced to take cargo ships from Israel to Turkey.",
+            "from":{  
+                "title":"Blessed. Cursed. Claimed.",
+                "url":"http:\/\/ngm.nationalgeographic.com\/2014\/12\/pilgrim-roads\/salopek-text"
+            },
+            "images":[  
+                {  
+                    "title":"holyland_1",
+                    "sub_title":"Arab Christians in Jordan hike to pray beneath a cross during Feast of Epiphany week near the banks of the Jordan River.",
+                    "photographer":"JOHN STANMEYER"
+                },
+                {  
+                    "title":"holyland_2",
+                    "sub_title":"Coffee is served at a Bedouin camp in the desert near Yanbu, Saudi Arabia.",
+                    "photographer":"JOHN STANMEYER"
+                },
+                {  
+                    "title":"holyland_3",
+                    "sub_title":"Guide Awad Omran and Seema the camel get a dawn start near Wadi Dabd, Saudi Arabia.",
+                    "photographer":"PAUL SALOPEK"
+                },
+                {  
+                    "title":"holyland_4",
+                    "sub_title":"Nabataeans, a pre-Islamic people, carved palatial tombs at Madain Salih.",
+                    "photographer":"JOHN STANMEYER"
+                },
+                {  
+                    "title":"holyland_5",
+                    "sub_title":"For centuries, a well at Al Bad oasis, now a dry hole, nourished camel caravans and religious travelers. Folklore says that Moses watered his sheep here.",
+                    "photographer":"JOHN STANMEYER"
+                },
+                {  
+                    "title":"holyland_6",
+                    "sub_title":"Striding toward Bethlehem, in the West Bank, Paul is detoured by a herder\u2019s fence, one of the first human-made barriers\u2014other than checkpoints and border gates\u2014he\u2019s faced in some 2,300 miles since he started out in Ethiopia.",
+                    "photographer":"JOHN STANMEYER"
+                },
+                {  
+                    "title":"holyland_7",
+                    "sub_title":"Youths explore Roman ruins at Samaria-Sebaste, a West Bank archaeological site divided between Israeli and Palestinian control. A forum and a temple to Augustus remain from the pre-Christian Roman city.",
+                    "photographer":"JOHN STANMEYER"
+                }
+            ]
+        },
+        {  
+            "name":"CHAPTER 3",
+            "title":"Autumn Wars",
+            "detail":"What happens when you become a war refugee? You walk.",
+            "location":"CYPRUS \/ TURKEY \/ GEORGIA \/ AZERBAIJAN",
+            "date":"JULY 2014 \u2013 MARCH 2016",
+            "sub_title":"In southern Turkey, one of the oldest farmed landscapes, Paul meanders through pistachio orchards, Bronze Age ruins, and walled medieval cities. And he walks into one of the greatest humanitarian catastrophes of our time: tides of refugees from Syria\u2019s civil war. Turning northeast, he passes through tense Kurdish villages en route to the Caucasus Mountains and a frigid crossing into Georgia\u2014an oasis of stability in a turbulent region. From the capital, Tbilisi, he sprints through Azerbaijan to the shore of the Caspian Sea. Central Asia and the ancient Silk Roads beckon.",
+            "from":{  
+                "title":"Fleeing Terror, Finding Refuge",
+                "url":"http:\/\/ngm.nationalgeographic.com\/2015\/03\/syrian-refugees\/salopek-text"
+            },
+            "images":[  
+                {  
+                    "title":"autumnwars_1",
+                    "sub_title":"With their homes in Ayn al Arab, Syria, under attack, ethnic Kurds push toward a barbed wire fence at the Turkish border.",
+                    "photographer":"JOHN STANMEYER"
+                },
+                {  
+                    "title":"autumnwars_2",
+                    "sub_title":"A dust devil swirls dirt and plant debris pulverized by the footsteps of migrants fleeing Syria. Relatives, friends, and helpful strangers\u2014waiting to welcome the refugees as they walk into Turkey\u2014are caught in the maelstrom.",
+                    "photographer":"JOHN STANMEYER"
+                },
+                {  
+                    "title":"autumnwars_3",
+                    "sub_title":"Container houses at the Kilis 2 refugee camp in Turkey line a spacious avenue used mostly by kids on bikes and adults on foot.",
+                    "photographer":"JOHN STANMEYER"
+                },
+                {  
+                    "title":"autumnwars_4",
+                    "sub_title":"Pistachio guard Cebir Sercan and the treasure he protects near Nizip, Turkey.",
+                    "photographer":"PAUL SALOPEK"
+                },
+                {  
+                    "title":"autumnwars_5",
+                    "sub_title":"Guide Murat Yazar, Kirkatir the mule, and the fat, lush land of Kurdish Anatolia\u2014a winter wheat field near Lake Van, Turkey.",
+                    "photographer":"PAUL SALOPEK"
+                },
+                {  
+                    "title":"autumnwars_6",
+                    "sub_title":"Mistaken for infiltrators, Salopek and his guide are detained in southeastern Turkey by armed villagers then forced to leave the area by truck.",
+                    "photographer":"PAUL SALOPEK"
+                }
+            ]
+        },
+        {  
+            "name":"CHAPTER 4",
+            "title":"The Silk Roads",
+            "detail":"What happens when you become a war refugee? You walk.",
+            "location":"CASPIAN SEA CROSSING \/ KAZAKHSTAN \/ UZBEKISTAN",
+            "date":"APRIL 2016 \u2013 IN PROGRESS",
+            "sub_title":"Horses were domesticated in Kazakhstan, but finding a cargo animal today to span this country\u2019s vast steppes proves no easy task. Paul and his local guides make the first foot traverse in almost a century of the wild Ustyurt Plateau straddling Kazakhstan and Uzbekistan\u2014a barren upland crisscrossed in earlier times by Neolithic hunters, Silk Road camel drivers, and armies of Scythians, Mongols, and Russians. The furnace of the Kyzyl Kum, or Red Desert, sears the route to the legendary oasis cities of Bukhara and Samarkand.",
+            "from":{  
+                "title":"Watch: An Ancient Prairie Comes Back to Life",
+                "url":"https:\/\/www.nationalgeographic.org\/projects\/out-of-eden-walk\/articles\/2016-06-watch-an-ancient-prairie-comes-back-to-life"
+            },
+            "images":[  
+                {  
+                    "title":"thesilkroutes_1",
+                    "sub_title":"First true desert since Israel\u2014the primordial badlands of the Ustyurt Plateau, Kazakhstan.",
+                    "photographer":"PAUL SALOPEK"
+                },
+                {  
+                    "title":"thesilkroutes_2",
+                    "sub_title":"Setting out with a new steed along the shores of the Caspian.",
+                    "photographer":"PAUL SALOPEK"
+                }
+            ]
+        }
+    ],
+    "version":"1.0"
+}

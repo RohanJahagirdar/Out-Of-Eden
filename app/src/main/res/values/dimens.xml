@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">12dp</dimen>
+    <dimen name="margin_tiny">2dp</dimen>
+    <dimen name="margin_minimum">4dp</dimen>
+    <dimen name="margin_default">8dp</dimen>
+    <dimen name="margin_maximum">16dp</dimen>
+    <dimen name="margin_big">20dp</dimen>
+    <dimen name="margin_extra">24dp</dimen>
+
+    <dimen name="padding_minimum">4dp</dimen>
+    <dimen name="padding_default">8dp</dimen>
+    <dimen name="padding_extra">12dp</dimen>
+    <dimen name="padding_maximum">16dp</dimen>
+
+    <dimen name="selected_pic_width">120dp</dimen>
+    <dimen name="selected_pic_height">120dp</dimen>
+    <dimen name="option_pic_width">60dp</dimen>
+    <dimen name="option_pic_height">60dp</dimen>
+
+    <dimen name="app_bar_height">240dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+
+
+    <dimen name="font_size_xl">20sp</dimen>
+    <dimen name="font_size_l">16sp</dimen>
+    <dimen name="font_size_default">14sp</dimen>
+    <dimen name="font_size_big">12sp</dimen>
+    <dimen name="font_size_small">8sp</dimen>
+
+
+</resources>

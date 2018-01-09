@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Out Of Eden</string>
+
+
+    <string-array name="chapters">
+        <item>INTRODUCTION</item>
+        <item>Out of Africa</item>
+        <item>Holy Lands</item>
+        <item>Autumn Wars</item>
+        <item>The Silk Roads</item>
+    </string-array>
+
+
+    <string-array name="chapter_drawables">
+        <item>walk</item>
+        <item>africa_1</item>
+        <item>holyland_1</item>
+        <item>autumnwars_1</item>
+        <item>silkroads_1</item>
+    </string-array>
+
+    <string name="chapter_introduction">Paul Salopek’s 21,000-mile odyssey is a decade-long experiment in slow journalism. \n
+        Moving at the beat of his footsteps, Paul is walking the pathways of the first humans who migrated out of Africa in the Stone Age and made the Earth ours. \n
+        Along the way he is covering the major stories of our time—from climate change to technological innovation, from mass migration to cultural survival—by giving voice to the people who inhabit them every day. \n
+        His words, as well as his photographs, video, and audio, create a global record of human life at the start of a new millennium as told by villagers, nomads, traders, farmers, soldiers, and artists who rarely make the news. \n
+        In this way, if we choose to slow down and observe carefully, we also can rediscover our world.</string>
+
+    <string name="chapter_1_intro">The journey begins in Ethiopia at one of the world’s oldest human fossil sites, Herto Bouri, and unspools across the scalding Afar Triangle, in the Rift Valley. \n
+        Along this pathway our restless forebears ventured forth toward the Gulf of Aden, where they first stepped out of the mother continent to explore the wider world. \n
+        As Paul bears witness, this ancient pathway remains a conduit of opportunity—and sometimes fatal tragedy—for migrants seeking a better life today.</string>
+
+    <string name="chapter_2_intro">The trek through the Middle East begins in the fabled deserts that guard the cradle of Islam—the Hejaz of Saudi Arabia, long forbidden to outsiders.
+        Meetings with Bedouin nomads and echoes of the ghost of Lawrence of Arabia give way to encounters in the contested borderlands between Israelis and Palestinians.
+        Crossing the West Bank, Paul gets caught in a skirmish between these two peoples.
+        Then, to circumvent the bloody civil war in Syria, he is forced to take cargo ships from Israel to Turkey.</string>
+
+
+    <string name="chapter_3_intro">In southern Turkey, one of the oldest farmed landscapes, Paul meanders through pistachio orchards, Bronze Age ruins, and walled medieval cities.
+        And he walks into one of the greatest humanitarian catastrophes of our time: tides of refugees from Syria’s civil war.
+        Turning northeast, he passes through tense Kurdish villages en route to the Caucasus Mountains and a frigid crossing into Georgia—an oasis of stability in a turbulent region.
+        From the capital, Tbilisi, he sprints through Azerbaijan to the shore of the Caspian Sea.
+        Central Asia and the ancient Silk Roads beckon.</string>
+
+
+    <string name="chapter_4_intro">Horses were domesticated in Kazakhstan, but finding a cargo animal today to span this country’s vast steppes proves no easy task.
+        Paul and his local guides make the first foot traverse in almost a century of the wild Ustyurt Plateau straddling Kazakhstan and Uzbekistan—a barren upland crisscrossed in earlier times by Neolithic hunters, Silk Road camel drivers, and armies of Scythians, Mongols, and Russians.
+        The furnace of the Kyzyl Kum, or Red Desert, sears the route to the legendary oasis cities of Bukhara and Samarkand.</string>
+
+
+    <string name="chapter_1_quote">Walking is falling forward. Each step we take is an arrested plunge, a collapse averted, a disaster braked. In this way, to walk becomes an act of faith.</string>
+    <string name="chapter_2_quote">Not an inch of this antique vista hasn’t been fought over, cursed, blessed, claimed for one divinity or another. It is a land worn smooth like a coin traded through countless fingers.</string>
+    <string name="chapter_3_quote">The total number of destitute, uprooted people in the Middle East now scrapes five million. If you think this exodus won’t touch you, you are a fool.</string>
+    <string name="chapter_4_quote">This spring the rains cascaded down in torrents not seen in a generation, turning the steppes into glue, filling the salt basins with brackish water.</string>
+    <string name="title_activity_index">IndexActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>
