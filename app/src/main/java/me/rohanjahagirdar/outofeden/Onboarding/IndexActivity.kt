@@ -29,40 +29,15 @@ class IndexActivity : AppCompatActivity() {
 
         recylerView.layoutManager = LinearLayoutManager(this)
 
+
         val indexAdapter = IndexAdapter(this, object: RecyclerViewClickListener {
             override fun onClick(index: Int) {
-                getDetails(index)
+                val intent= Intent(this@IndexActivity, ChapterActivity::class.java)
+                intent.putExtra("index", index)
+                startActivity(intent)
 
             }
         } )
         recylerView.adapter = indexAdapter
-    }
-
-    fun getDetails(index: Int) {
-        var client = OkHttpClient()
-        var request= OkHttpRequest(client)
-        val url = getResources().getString(R.string.chapter_url) + "?chapter=" + index
-
-        request.GET(url, object: Callback {
-            override fun onResponse(call: Call?, response: Response) {
-                val responseData = response.body()?.string()
-                runOnUiThread{
-                    try {
-                        var jsonObject = JSONObject(responseData)
-                        println("SUCCESS - " + jsonObject)
-                        val intent= Intent(this@IndexActivity, ChapterActivity::class.java)
-                        intent.putExtra("index", index)
-                        startActivity(intent)
-                    } catch (e: JSONException) {
-                            e.printStackTrace()
-
-                    }
-                }
-            }
-
-            override fun onFailure(call: Call?, e: IOException?) {
-                println("Activity Failure.")
-            }
-        })
     }
 }
