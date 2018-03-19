@@ -19,6 +19,8 @@
         <item>silkroads_1</item>
     </string-array>
 
+    <string name="chapter_url">http://18.218.145.221/outofeden/chapters/index.php</string>
+
     <string name="chapter_introduction">Paul Salopek’s 21,000-mile odyssey is a decade-long experiment in slow journalism. \n
         Moving at the beat of his footsteps, Paul is walking the pathways of the first humans who migrated out of Africa in the Stone Age and made the Earth ours. \n
         Along the way he is covering the major stories of our time—from climate change to technological innovation, from mass migration to cultural survival—by giving voice to the people who inhabit them every day. \n
